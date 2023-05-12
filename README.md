@@ -19,7 +19,6 @@
 </a>
 <h4 align="center">A collaborative collection of valuable scripts for configuring, managing, and troubleshooting issues with Zero Networks, actively contributed by the community and Zero Networks </h4>
 
-
 <p align="center">
     <a href="https://zeronetworks.com/zero-network-segment/" target="blank">Segment</a>
     ·
