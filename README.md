@@ -4,7 +4,7 @@
 <h2><p align="center">Community Repo</p></h2>
 
 <p align="center">
-<a href="https://github.com/zeronetworks/Community/fork" target="blank">
+<a href="/repository/fork" target="blank">
 <img src="https://img.shields.io/github/forks/zeronetworks/Community?style=flat-square" alt="zeronetworks community forks"/>
 </a>
 <a href="https://github.com/zeronetworks/Community/stargazers" target="blank">
